@@ -1,10 +1,11 @@
+// package name
 package intro;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
 public class Main {
-	// main function where application starts running
+	// main function where application starts running (to create write psvm and tab (in vscode and intellij))
 	public static void main(String[] args) {
 
 		// Print "Hello World!" to console
